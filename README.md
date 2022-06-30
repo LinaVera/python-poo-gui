@@ -83,7 +83,7 @@ Esto permite la división del trabajo. Además, debido a que la tecnología de l
 
 ## Diagrama de clases
 
-![Image](https://github.com/ariasRonaldo25/PlantillaReadme/blob/main/doc/resources/img/BluePy_Model.jpg)
+![Image](https://github.com/Arquitectura-de-Software-UFPS-2022-I/python-poo-gui/blob/main/img/BluePy_Model.jpg)
 
 * PythonFile: Representa el archivo de python que se creará por medio del IDE, dicho archivo contendrá todas las clases creadas por el usuario.
 * PythonClass: Representa la clase de Python creada por el usuario la cual contará con todos los atributos o relaciones (herencia) que este le defina después de su creación. 
@@ -132,15 +132,15 @@ material-dashboard
 
 
 ## Archivo .jar
-[.jar](https://drive.google.com/file/d/12lzgeMw9VZAk2EmKo7QuT54squjGC2yH/view?usp=sharing) Archivo ejecutable
+![.jar](https://drive.google.com/file/d/12lzgeMw9VZAk2EmKo7QuT54squjGC2yH/view?usp=sharing) Archivo ejecutable
 
+## Estructura un proyecto
 
- ## Autores 
+![Image](https://github.com/Arquitectura-de-Software-UFPS-2022-I/python-poo-gui/blob/main/img/estrucura_proyecto.jpg)
+
+## Autores 
 
 Los autores del proyecto son los estudiantes de la asignatura de Arquitectura de Software 2022-1 y la entidad educativa Universidad Francisco de Paula Santander.
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/Arquitectura-de-Software-UFPS-2022-I/python-poo-gui/graphs/contributors) quienes han participado en este proyecto. 
-
-
-
 
