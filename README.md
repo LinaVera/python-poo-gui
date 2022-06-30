@@ -65,8 +65,6 @@ Los objetivos de Blue Py son:
     4. _Formalizar la documentación de Blue Py._
 
 
-
-
 ## Arquitectura 
 
 ![Image](https://github.com/Arquitectura-de-Software-UFPS-2022-I/python-poo-gui/blob/main/resources/img/arquitectura.jpg)
