@@ -2,7 +2,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
 
-![Image](https://github.com/Arquitectura-de-Software-UFPS-2022-I/python-poo-gui/blob/main/img/Logo.jpg)
+![Image](https://github.com/Arquitectura-de-Software-UFPS-2022-I/python-poo-gui/blob/main/resources/img/Logo.jpg)
 
 *Blue Py - IDE* El proyecto consiste en el desarrollo de un entorno integrado de desarrollo para el lenguaje de programación Python; que busca principalmente apoyar la enseñanza y el aprendizaje de la Programación Orientada a Objetos (POO) en el lenguaje de programación Python.
  
@@ -69,8 +69,8 @@ Los objetivos de Blue Py son:
 
 ## Arquitectura 
 
-![Image](https://github.com/Arquitectura-de-Software-UFPS-2022-I/python-poo-gui/blob/main/img/arquitectura.jpg)
-![Image](https://github.com/ariasRonaldo25/PlantillaReadme/blob/main/doc/img/arquitectura_Descomposición.jpg)
+![Image](https://github.com/Arquitectura-de-Software-UFPS-2022-I/python-poo-gui/blob/main/resources/img/arquitectura.jpg)
+![Image](https://github.com/Arquitectura-de-Software-UFPS-2022-I/python-poo-gui/blob/main/img/arquitectura_Descomposici%C3%B3n.jpg)
 
 La arquitectura seleccionada para el desarrollo del proyecto es la arquitectura Modelo Vista Control II (MVC II), en esta arquitectura el módulo Modelo proporciona toda la funcionalidad básica y los datos compatibles con una base de datos. 
  
@@ -83,7 +83,7 @@ Esto permite la división del trabajo. Además, debido a que la tecnología de l
 
 ## Diagrama de clases
 
-![Image](https://github.com/ariasRonaldo25/PlantillaReadme/blob/main/doc/img/BluePy_Model.jpg)
+![Image](https://github.com/ariasRonaldo25/PlantillaReadme/blob/main/doc/resources/img/BluePy_Model.jpg)
 
 * PythonFile: Representa el archivo de python que se creará por medio del IDE, dicho archivo contendrá todas las clases creadas por el usuario.
 * PythonClass: Representa la clase de Python creada por el usuario la cual contará con todos los atributos o relaciones (herencia) que este le defina después de su creación. 
@@ -101,8 +101,6 @@ _Las herramientas utilizadas para el desarrollo del proyecto fueron:_
 * [Maven](https://maven.apache.org) - Herramienta de Software
 
 <p align="center"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="74" height="64" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="64" height="64" margin-right: 20px> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" width="180" height="64"></p>
-
-
 
 
 ## Estructura 
@@ -133,16 +131,8 @@ material-dashboard
 ```
 
 
-
-## Recursos 
-
-Para conocer más a fondo sobre el proyecto se puede observar en:
-
-- Documentación: <https://drive.google.com/drive/folders/1b5IwBA2nswt6BmnGF4TCFswfDyvEJSMG?usp=sharing>
-- Logo: <https://drive.google.com/file/d/1RZad8ROvUr8UAhoP-5HsbQ67BKp78J0I/view?usp=sharing>
-- Arquitectura: <https://drive.google.com/file/d/1w468Mrg2pxUDPG9z96OeO12LVybCw4hw/view?usp=sharing> 
-- Organigrama: <>
-- Manual de Usuario: <>
+## Archivo .jar
+[.jar](https://drive.google.com/file/d/12lzgeMw9VZAk2EmKo7QuT54squjGC2yH/view?usp=sharing) Archivo ejecutable
 
 
  ## Autores 
