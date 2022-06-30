@@ -50,8 +50,6 @@ _Este proyecto cuenta con los siguientes requerimientos:_
 * RF-21: Reiniciar la terminal de comandos.
 * RF-22: Ingresar versión de python.
 
-
-
 ## Objetivos 
 
 Los objetivos de Blue Py son:
